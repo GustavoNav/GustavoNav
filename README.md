@@ -20,7 +20,7 @@ Sou Tecnólogo formado pela FATEC de Ribeirão Preto, atualmente explorando nova
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavonimport&show_icons=true&count_private=true&hide=prs&hide_title=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoNav&show_icons=true&count_private=true&hide=prs&hide_title=true)
 
 ---
 
