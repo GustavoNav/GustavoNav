@@ -10,7 +10,7 @@ Sou Tecnólogo formado pela FATEC de Ribeirão Preto, atualmente explorando nova
 ## 📫 Entre em Contato
 
 - 📧 **E-mail:** gustavonimport@gmail.com
-- 💼 **LinkedIn:** [Gustavo Navarro]([link-para-seu-perfil-linkedin](https://www.linkedin.com/in/gustavo-navarro-felix/?trk=opento_sprofile_details))
+- 💼 **LinkedIn:** [Gustavo Navarro](https://www.linkedin.com/in/gustavo-navarro-felix/?trk=opento_sprofile_details)
 
 ## 🛠️ Ferramentas e Tecnologias
 
