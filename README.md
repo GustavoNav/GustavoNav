@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Gustavo! 👋
 
-<!--
-**GustavoNav/GustavoNav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Tecnólogo formado pela FATEC de Ribeirão Preto, atualmente explorando novas oportunidades no mercado de trabalho. Estou focado em aprimorar minhas habilidades em Engenharia de Dados, Banco de Dados e Desenvolvimento Back-End.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 **Estudo:** Engenharia de Dados, Banco de Dados e Desenvolvimento Back-End, Airflow, Pipelines, Cloud, WebScraping.
+- 🔧 **Habilidades:** Python, SQL, C++, Java,  AirFlow, Docker, Git, PowerBI, Bancos de Dados Relacionais.
+
+## 📫 Entre em Contato
+
+- 📧 **E-mail:** gustavonimport@gmail.com
+- 💼 **LinkedIn:** [Gustavo Navarro]([link-para-seu-perfil-linkedin](https://www.linkedin.com/in/gustavo-navarro-felix/?trk=opento_sprofile_details))
+
+## 🛠️ Ferramentas e Tecnologias
+
+- **Linguagens de Programação:** Python, SQL, C++ e Java
+- **Frameworks e Bibliotecas:** Django e Flask
+- **Ferramentas:** Docker, Git, AirFlow, Power BI
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavonimport&show_icons=true&count_private=true&hide=prs&hide_title=true)
+
+---
+
+Sinta-se à vontade para explorar e me contatar para qualquer oportunidade ou colaboração!
