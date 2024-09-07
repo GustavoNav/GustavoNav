@@ -15,7 +15,7 @@ Sou Tecnólogo formado pela FATEC de Ribeirão Preto, atualmente explorando nova
 ## 🛠️ Ferramentas e Tecnologias
 
 - **Linguagens de Programação:** Python, SQL, C++ e Java
-- **Frameworks e Bibliotecas:** Django e Flask
+- **Frameworks e Bibliotecas:** Django, Flask, Apache Spark
 - **Ferramentas:** Docker, Git, AirFlow, Power BI
 
 ## 📊 Estatísticas do GitHub
