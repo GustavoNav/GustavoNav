@@ -22,7 +22,7 @@ Desenvolvedor Full Stack, atualmente focado em Engenharia de Dados e Back-End. E
 ## 📫 Entre em Contato
 
 - 📧 **E-mail:** gustavonimport@gmail.com
-- 💼 **LinkedIn:** [Gustavo Navarro](https://www.linkedin.com/in/gustavo-navarro-felix/?trk=opento_sprofile_details)
+- 💼 **LinkedIn:** [[Gustavo Navarro]([https://www.linkedin.com/in/gustavo-navarro-felix/?trk=opento_sprofile_details](https://www.linkedin.com/in/gustavo-navarro-felix/))]
 
 Sinta-se à vontade para explorar e me contatar para qualquer oportunidade ou colaboração!
 
