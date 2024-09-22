@@ -8,7 +8,7 @@ Desenvolvedor Full Stack, atualmente focado em Engenharia de Dados e Back-End. E
 
 ## 🛠️ Ferramentas e Tecnologias
 
-- **Linguagens de Programação:** Python, SQL, C++, C# Java
+- **Linguagens de Programação:** Python, SQL, C++, C# e Java
 - **Frameworks e Bibliotecas:** Django, Flask, Pandas, Pyplot.
 - **Ferramentas:** Git, Docker, Power BI, AirFlow, PySpark, Oracle, PostgreSQL, SQLite, MySQL.
 - **OS:** Windows e Linux(Ubuntu)
