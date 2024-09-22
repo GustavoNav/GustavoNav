@@ -1,22 +1,17 @@
 # Olá, eu sou o Gustavo! 👋
 
-Sou Tecnólogo formado pela FATEC de Ribeirão Preto, atualmente explorando novas oportunidades no mercado de trabalho. Estou focado em aprimorar minhas habilidades em Engenharia de Dados, Banco de Dados e Desenvolvimento Back-End.
+Desenvolvedor Full Stack, atualmente focado em Engenharia de Dados e Back-End. Encontre em meu repositório diversos projetos de diferentes áreas e tecnologias, sempre buscando as melhores soluções. 
 
 ## 🚀 Sobre Mim
 
-- 📚 **Estudo:** Engenharia de Dados, Banco de Dados e Desenvolvimento Back-End, Airflow, Pipelines, Cloud, WebScraping.
-- 🔧 **Habilidades:** Python, SQL, C++, Java,  AirFlow, Docker, Git, PowerBI, Bancos de Dados Relacionais.
-
-## 📫 Entre em Contato
-
-- 📧 **E-mail:** gustavonimport@gmail.com
-- 💼 **LinkedIn:** [Gustavo Navarro](https://www.linkedin.com/in/gustavo-navarro-felix/?trk=opento_sprofile_details)
+- **Habilidades:** Desenvolvimento Back-End e Full Stack, Engenharia de Dados, Banco de Dados, Airflow, Pipelines, WebScraping.
 
 ## 🛠️ Ferramentas e Tecnologias
 
-- **Linguagens de Programação:** Python, SQL, C++ e Java
-- **Frameworks e Bibliotecas:** Django, Flask, Apache Spark
-- **Ferramentas:** Docker, Git, AirFlow, Power BI
+- **Linguagens de Programação:** Python, SQL, C++, C# Java
+- **Frameworks e Bibliotecas:** Django, Flask, Pandas, Pyplot.
+- **Ferramentas:** Git, Docker, Power BI, AirFlow, PySpark, Oracle, PostgreSQL, SQLite, MySQL.
+- **OS:** Windows e Linux(Ubuntu)
 
 ## 📊 Estatísticas do GitHub
 
@@ -24,4 +19,10 @@ Sou Tecnólogo formado pela FATEC de Ribeirão Preto, atualmente explorando nova
 
 ---
 
+## 📫 Entre em Contato
+
+- 📧 **E-mail:** gustavonimport@gmail.com
+- 💼 **LinkedIn:** [Gustavo Navarro](https://www.linkedin.com/in/gustavo-navarro-felix/?trk=opento_sprofile_details)
+- 
 Sinta-se à vontade para explorar e me contatar para qualquer oportunidade ou colaboração!
+
