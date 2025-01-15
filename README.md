@@ -1,6 +1,6 @@
 # Olá, eu sou o Gustavo! 👋
 
-Desenvolvedor Full Stack, atualmente focado em Engenharia de Dados e Back-End. Encontre em meu repositório diversos projetos de diferentes áreas e tecnologias, sempre buscando as melhores soluções. 
+Desenvolvedor Full Stack, atualmente focado em Back-End. Encontre em meu repositório diversos projetos de diferentes áreas e tecnologias, sempre buscando as melhores soluções. 
 
 ## 🚀 Sobre Mim
 
