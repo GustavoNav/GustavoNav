@@ -21,7 +21,7 @@ Desenvolvedor Full Stack, atualmente focado em Back-End. Encontre em meu reposit
 
 ## 📫 Entre em Contato
 
-- 📧 **E-mail:** gustavonimport@gmail.com
+- 📧 **E-mail:** gustavo.navarro.felix00@gmail.com
 - 💼 **LinkedIn:** [Gustavo Navarro Felix](https://www.linkedin.com/in/gustavo-navarro-felix/)
 
 Sinta-se à vontade para explorar e me contatar para qualquer oportunidade ou colaboração!
