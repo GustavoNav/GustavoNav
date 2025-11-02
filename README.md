@@ -1,17 +1,13 @@
 # Olá, eu sou o Gustavo! 👋
 
-Desenvolvedor Full Stack, atualmente focado em Back-End. Encontre em meu repositório diversos projetos de diferentes áreas e tecnologias, sempre buscando as melhores soluções. 
-
-## 🚀 Sobre Mim
-
-- **Habilidades:** Desenvolvimento Back-End e Full Stack, Engenharia de Dados, Banco de Dados, Airflow, Pipelines, WebScraping.
+Desenvolvedor Back-End. Encontre em meu repositório diversos projetos de diferentes áreas e tecnologias. Principalmente sistemas de automatização, scraping, processamento de dados e infraestrutura. 
 
 ## 🛠️ Ferramentas e Tecnologias
 
-- **Linguagens de Programação:** Python, SQL, C++, C# e Java
-- **Frameworks e Bibliotecas:** Django, Flask, Pandas, Pyplot.
-- **Ferramentas:** Git, Docker, Power BI, AirFlow, PySpark, Oracle, PostgreSQL, SQLite, MySQL.
-- **OS:** Windows e Linux(Ubuntu)
+- **Linguagens de Programação:** JavaScript, TypeScript e Python.
+- **Frameworks e Bibliotecas:** Node.js, Django e Pandas.
+- **Ferramentas:** Git, Docker, AirFlow, Oracle, PostgreSQL.
+- **OS:** Windows e Linux.
 
 ## 📊 Estatísticas do GitHub
 
