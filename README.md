@@ -6,8 +6,9 @@ Desenvolvedor Back-End. Encontre em meu repositório diversos projetos de difere
 
 - **Linguagens de Programação:** JavaScript, TypeScript e Python.
 - **Frameworks e Bibliotecas:** Node.js, Django e Pandas.
-- **Ferramentas:** Git, Docker, AirFlow, Oracle, PostgreSQL.
+- **Ferramentas:** Git, Docker, AirFlow, Terraform, Oracle, PostgreSQL.
 - **OS:** Windows e Linux.
+- **Cloud:**: AWS.
 
 ## 📊 Estatísticas do GitHub
 
